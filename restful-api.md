@@ -1,5 +1,5 @@
 
-# RESTful API for Bitkub (2021-10-05)
+# RESTful API for Bitkub (2020-06-26)
 
 # Releases
 * 2021-10-05 Updated usage of [tradingview](#get-tradingviewhistory) endpoint
